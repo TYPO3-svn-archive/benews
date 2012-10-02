@@ -1,0 +1,41 @@
+#tx-benews-menu .toolbar-item {
+	padding-left: 8px;
+	padding-right: 7px;
+}
+#tx-benews-menu .toolbar-item-active {
+	/*background-image: url('toolbar_item_active_bg.png');*/
+}
+#tx-benews-menu .toolbar-item-menu {
+	position: absolute;
+	list-style: none;
+	padding: 2px 0px 0px;
+	margin: 0px;
+	background-color: #f9f9f9;
+	border: 1px solid #abb2bc;
+	border-top: none;
+	width: 360px;
+}
+#tx-benews-menu .toolbar-item-menu .list th {
+    border-top: 1px solid #A5A5A5;
+    border-bottom: 1px solid #A5A5A5;
+    background-color: #DBDBDB;
+    text-align: left;
+    font-weight: normal;
+    line-height: 16px;
+    padding-left: 7px;
+}
+#tx-benews-menu .toolbar-item-menu .list {
+    width: 100%;
+}
+#tx-benews-menu .toolbar-item-menu .list td {
+    padding: 2px 1px;
+    line-height: 16px;
+}
+#tx-benews-menu .toolbar-item-menu .list .icon{
+    width:16px;
+}
+#tx-benews-menu .toolbar-item-menu .list .icon {
+    padding-left: 7px;
+    vertical-align: top;
+    width: 16px;
+}

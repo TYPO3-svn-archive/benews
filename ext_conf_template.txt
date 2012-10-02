@@ -1,0 +1,12 @@
+# cat=templates/basic; type=input; label=Button Text
+HideMessageButtonText = Hide Message for 7 days
+# cat=templates/basic; type=input; label=max age of news in days 
+max_news_age = 31
+# cat=templates/basic; type=input; label=PID for tt_news entries 
+tt_news_startingpoint = 0
+# cat=templates/basic; type=input; label=recursionlevel
+tt_news_recursive = 99
+# cat=templates/basic; type=input; label=recursionlevel
+tt_news_singlepid = 0
+# cat=templates/basic; type=input; label=notification sound, other sound an licenses in EXT:benews\Resources\Public\Sounds\license.txt 
+notificationSound = EXT:benews/Resources/Public/Sounds/Electrical_Sweep-Sweeper-1760111493.mp3
